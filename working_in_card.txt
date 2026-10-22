@@ -1,0 +1,335 @@
+## Issue Verified And Report in Web(Live):
+1->Community Email Fixes(testing Statging Done->live testing )
+https://trello.com/c/zWWu6y6q/669-community-email-fixes-fix-community-email-with-app
+Test case(tester 2):https://docs.google.com/spreadsheets/d/1XcYq5D3kmLdrLx6V26LHUkrmjuCh5FLT/edit?usp=sharing&ouid=102246886626136998666&rtpof=true&sd=true
+
+2-> Notification System Issue Checked email notifications. (DEV STAGING Done->STAGING Done)
+https://trello.com/c/qYMm6B0e/639-bug-100weblive-notification-system-issue
+
+Test case:https://docs.google.com/spreadsheets/d/1Rci3DnuOd8jSESwnFawwI8JiHacpGqny/edit?usp=sharing&ouid=102246886626136998666&rtpof=true&sd=true
+3-> [Feat-606][Web][Staging]-Removed Member Rejoin — QA Test Cases  (Dev Staging Done)
+https://trello.com/c/KqoJMWzN/596-feat-606webstaging-removed-member-rejoin-qa-test-cases?filter=removed+member+
+
+test case:https://docs.google.com/spreadsheets/d/1OHMGX__TVJHkHqSLk-y-0nqP5vYc_jeGm5PhzQ_n-aM/edit?usp=sharing
+
+4->change member tab to videos tab(Staging test Done -> LIVE TEST Closed )
+https://trello.com/c/0C412HQJ/692-imp-601weblive-change-member-tab-to-videos-tab
+test_Case->https://docs.google.com/document/d/1rsLkiLGAXse1WwbvT-md7mH1PtOLYB_eFT4zT9JHf04/edit?usp=sharing 
+Automation->https://github.com/sojibahmed007/Automation_Library_issue_com
+
+
+5->[Issue-client] - Storage Usage Showing 31 MB Despite Less Than 1 MB of Uploaded Images - szmkrisztina@gmail.com
+https://trello.com/c/BmNN5MVn/687-issue-client-storage-usage-showing-31-mb-despite-less-than-1-mb-of-uploaded-images-szmkrisztinagmailcom
+
+
+6->Media File Deletion doesn't update overall Media Storage
+https://trello.com/c/SWYnFXkr/354-media-file-deletion-doesnt-update-overall-media-storage
+
+07/[Bug-100][Web][Live] Unfollowed Channel Still Triggers In-App Notification 
+-> https://trello.com/c/wTF3zJwe/681-bug-100weblive-unfollowed-channel-still-triggers-in-app-notification
+08/[Bug-100] [Web] [Live]Reaction popup sometimes does not close when tapping outside on mobile browser
+->https://trello.com/c/IUlPRpap/696-bug-100-web-livereaction-popup-sometimes-does-not-close-when-tapping-outside-on-mobile-browser
+
+09/[Bug-100][Web][Live]-Pinned Posts Do Not Display Correctly in Arabic RTL
+->https://trello.com/c/yNiGTTuD/663-bug-100weblive-pinned-posts-do-not-display-correctly-in-arabic-rtl
+
+10/[Bug-100] [Web] [Live] -Unfollowed Channel Announcement Triggers In-App Notification
+https://trello.com/c/xdHlcqQ0/645-bug-100-web-live-unfollowed-channel-announcement-triggers-in-app-notification
+
+11/Meeting-> Reaction Popup Goes Outside the Screen on Mobile Browser
+https://trello.com/c/x2Xqrucq/86-reaction-popup-goes-outside-the-screen-on-mobile-browser
+
+12/Meeting-> Camera Cannot Switch While Visual Effect Is Enabled on Mobile Browser(Done)
+https://trello.com/c/MPz6wqku/87-camera-cannot-switch-while-visual-effect-is-enabled-on-mobile-browser
+
+13/[Bug-100] [Web] [Live] -Thread Panel UI Overflow & Menu Issues
+https://trello.com/c/LSO9KpX6/649-bug-100-web-live-thread-panel-ui-overflow-menu-issues
+
+14/[Bug-100] [Web] [Live] - Media Upload Limit Validation & Retry Failure (Chat)
+https://trello.com/c/hS9S4x0l/652-bug-100-web-live-media-upload-limit-validation-retry-failure-chat
+
+15/[Bug-100] [Web] [Live] Post Review Banner Behavior Is Inconsistent for Admin and Owner
+ https://trello.com/c/adRtqGJY/470-bug-100-web-live-post-review-banner-behavior-is-inconsistent-for-admin-and-owner 
+
+16/[Bug-100] [Web] [Live] This page couldn’t load" Error When Approving Video Content
+https://trello.com/c/blvVggWS/472-bug-100-web-live-this-page-couldnt-load-error-when-approving-video-content 
+
+17/[Bug-100] [Web] [Live] Course and Event Comments Show as "Comment in General" in Comment Report
+https://trello.com/c/5ifbonk8/476-bug-100-web-live-course-and-event-comments-show-as-comment-in-general-in-comment-report 
+
+18/[Bug-100] [Web] [Live]  Secondary Restriction Overrides "Hide All Existing Content" Setting
+https://trello.com/c/JIPuGmrI/481-bug-100-web-live-secondary-restriction-overrides-hide-all-existing-content-setting 
+
+19/[Bug-100] [Web] [Live] Unable to Re-select Creator/Owner as Host and No Clear Option in Host Dropdown
+https://trello.com/c/opTSTWUu/490-bug-100-web-live-unable-to-re-select-creator-owner-as-host-and-no-clear-option-in-host-dropdown
+
+20/[Bug-100] [Web] [Live] Custom Branding Color Picker Lag and Contrast/Visibility Issues
+https://trello.com/c/IxUuk7si/493-bug-100-web-live-custom-branding-color-picker-lag-and-contrast-visibility-issues
+
+21/[Bug-100][Web][Live] - Media Files Consume Storage but Do Not Appear in Media Storage
+https://trello.com/c/ky90YOyP/495-bug-100weblive-media-files-consume-storage-but-do-not-appear-in-media-storage 
+
+22/[Bug-100] [Web] [Live] Rejected Users Appearing in "Add Members" Modal (dev Staging->STAGING)
+https://trello.com/c/0tjXiXNq/501-bug-100-web-live-rejected-users-appearing-in-add-members-modal
+
+23/[Bug-100] [Web] [Live] Rejected Users Appearing in "Add Members" Modal  (Closed)
+https://trello.com/c/0tjXiXNq/501-bug-100-web-live-rejected-users-appearing-in-add-members-modal 
+
+24->[Bug-100][Web][Live] – Email Validation Missing for Custom Fields(staging done-> )
+https://trello.com/c/suU5nc6i/794-bug-100weblive-email-validation-missing-for-custom-fields 
+
+
+## Issue Verified And Report in App(Live):
+https://docs.google.com/document/d/1T3uaqg7qZHyVY9VDKYe3Sr4Lpv-D4Ad40uN5mAOalq8/edit?tab=t.0
+
+1->[Bug-100][App][Live]-Profile: Member Posts List Loads Only the First 10 Posts
+->https://trello.com/c/fL7nhNWJ/58-bug-100applive-profile-member-posts-list-loads-only-the-first-10-posts (Move to Under reveiw)
+
+2->[Bug-100][App][Live] – Edit Post Option Shows "Mark as Announcement" and "Schedule This Post" Options
+https://trello.com/c/HN6rlC7u/146-bug-100applive-edit-post-option-shows-mark-as-announcement-and-schedule-this-post-options
+
+3-[Bug-100][App][Live] - Schedule Post Option should not Visible in member side
+->https://trello.com/c/XIeHYrw1/160-bug-100applive-schedule-post-option-should-not-visible-in-member-side
+
+4->[Bug-200][App][Staging] Single Post View remains interactive and allows user actions after post deletion(Fixed)
+->https://trello.com/c/UxJR0Ikk/401-bug-200appstaging-single-post-view-remains-interactive-and-allows-user-actions-after-post-deletion
+
+5-> [Bug-200][App][Staging] Floating audio player persists across screens and continues running after parent audio post deletion until app is closed
+https://trello.com/c/L7J2Q5ty/410-bug-200appstaging-floating-audio-player-persists-across-screens-and-continues-running-after-parent-audio-post-deletion-until-app
+
+6->[Bug-100][App][Live] Post Title Validation Is Inconsistent Between Mobile App and Web
+https://trello.com/c/vVysC5iM/363-bug-100applive-post-title-validation-is-inconsistent-between-mobile-app-and-web
+
+7->[Bug-100][App][Live] – "Post Anonymously" Option Not Working in Edit Post
+https://trello.com/c/L2oauGYO/144-bug-100applive-post-anonymously-option-not-working-in-edit-post( fixed)
+
+8->[Bug-100][App][Live]-Profile: Member Comments List Loads Only the First 10 Comments
+https://trello.com/c/EK81svRs/57-bug-100applive-profile-member-comments-list-loads-only-the-first-10-comments
+
+9->[Bug-100][App][Live]-Member Comment Count Is Not Updated After Comment Deletion(Not Fixed) 
+https://trello.com/c/1pz0klJJ/59-bug-100applive-member-comment-count-is-not-updated-after-comment-deletion
+
+10->Bug-100][App][Live]-Channel type is not available on the web, but it is available in the app.(Done)
+https://trello.com/c/a1FB5H2O/137-bug-100applive-channel-type-is-not-available-on-the-web-but-it-is-available-in-the-app
+
+11->[Bug-100][App][Live] - Private channels should not show the "Follow" or other channel management options to members
+https://trello.com/c/8WQr327Z/138-bug-100applive-private-channels-should-not-show-the-follow-or-other-channel-management-options-to-members 
+
+12->[Bug-100][App][Live] – Admin Role Incorrectly Displayed as Member in Feed
+https://trello.com/c/i3LLclny/182-bug-100applive-admin-role-incorrectly-displayed-as-member-in-feed
+
+13-> [Bug-100][App][Live]-Member Post Count Is Not Updated After Post Deletion(Not Fixed)
+https://trello.com/c/otjV4d9a/60-bug-100applive-member-post-count-is-not-updated-after-post-deletion
+
+14->[Bug-100][App][Live]Post Timestamp Mismatch Between Web and Mobile App
+https://trello.com/c/p6fKKWDq/358-bug-100applivepost-timestamp-mismatch-between-web-and-mobile-app
+
+15->[Bug-100][App][Live] – Reaction Modal Remains Open After Navigating to a Post from Push Notification(Fixed)
+https://trello.com/c/Zl3FQ68y/258-bug-100applive-reaction-modal-remains-open-after-navigating-to-a-post-from-push-notification 
+
+16->[Bug-100][App][Live]-"Post Anonymously" Option Is Disabled When Editing an Anonymous Post ( Fixed)
+https://trello.com/c/3AP7Byk2/53-bug-100applive-post-anonymously-option-is-disabled-when-editing-an-anonymous-post
+
+17->[Bug-100][App][Live]-Anonymous Post Cannot Be Converted to a Regular Post
+https://trello.com/c/RaWYwszM/52-bug-100applive-anonymous-post-cannot-be-converted-to-a-regular-post(Fixed)
+
+18->https://trello.com/c/Rh6oGS9E/731-bug-100applive-embed-post-not-supported-properly-in-mobile-app [issue report-test staging done ]
+
+19->[Bug-100][App][Live]-Reaction Remains Selected After Failing Due to No Internet Connection 
+https://trello.com/c/QxQILx4c/34-bug-100applive-reaction-remains-selected-after-failing-due-to-no-internet-connection (Done)
+
+20-> [Bug-100][App][Live]-Comment reply threads not connected properly (Not fixed-> fixed)
+https://trello.com/c/hOEmeoR4/222-bug-100applive-comment-reply-threads-not-connected-properly 
+
+21->[Bug-100][App][Live]-Notification Data Mismatch 
+https://trello.com/c/W15LLTpW/76-bug-100applive-notification-data-mismatch 
+
+22->[Bug-100][App][Live]-Anonymous Option Does Not Apply When Editing a Post
+https://trello.com/c/X7tmQoit/54-bug-100applive-anonymous-option-does-not-apply-when-editing-a-post
+
+
+23->[Bug-100][App][Live]-Events: Comments Added from the Mobile App Are Not showing on the Web 
+https://trello.com/c/uQMNq4Fx/48-bug-100applive-events-comments-added-from-the-mobile-app-are-not-showing-on-the-web
+
+24->[Bug-100][App][Live]-No Success Toast Is Displayed After Deleting a Feed Post 
+https://trello.com/c/blU9jxLo/50-bug-100applive-no-success-toast-is-displayed-after-deleting-a-feed-post
+
+25->[Bug-100][App][Live] – Video Is Removed When Editing a Video Channel Post
+https://trello.com/c/3JPKrccv/142-bug-100applive-video-is-removed-when-editing-a-video-channel-post (Not fixed->fixed)
+
+26->[Bug-100][App][Live] – Website, Twitter, and LinkedIn Fields Accept Invalid Input Without Validation 
+https://trello.com/c/mqlFCAVM/183-bug-100applive-website-twitter-and-linkedin-fields-accept-invalid-input-without-validation (Not fixed->fixed)
+
+27->[Bug-100][App][Live] – PDF and Document Preview Is Not Displayed on the First Page
+https://trello.com/c/uTXyqwzx/185-bug-100applive-pdf-and-document-preview-is-not-displayed-on-the-first-page
+
+28->[Bug-100][App][Live] – No Way to View or Access Pinned Files
+https://trello.com/c/9JdXDwH1/189-bug-100applive-no-way-to-view-or-access-pinned-files?filter=pin 
+
+29-> [Bug-100][App][Live]Video in Comments Opens External Browser Instead of Playing In-App 
+https://trello.com/c/l9BetMAe/312-bug-100applivevideo-in-comments-opens-external-browser-instead-of-playing-in-app 
+
+30->[Bug-100][App][Live]Report type list gets cut off from top and hidden by video mini-player at the bottom
+https://trello.com/c/yAOSe4PP/333-bug-100applivereport-type-list-gets-cut-off-from-top-and-hidden-by-video-mini-player-at-the-bottom 
+
+31->Audio Playback Produces No Sound on iOS
+https://trello.com/c/4QKnV5be/728-audio-playback-produces-no-sound-on-ios (Not fixed->fixed)
+
+32->[Bug-100][App][Live]-Three-Dot (More Options) Menu Is Visible on Inaccessible Private Channel
+https://trello.com/c/V2uxHrj5/62-bug-100applive-three-dot-more-options-menu-is-visible-on-inaccessible-private-channel
+
+33->[Bug-100][App][Live] Native back button exits app from non-home tabs instead of navigating to Home (not fixed )
+https://trello.com/c/WBdKy4rk/292-bug-100applive-native-back-button-exits-app-from-non-home-tabs-instead-of-navigating-to-home
+34. Incorrect Success Toast Displayed After Editing a Post — Fixed
+
+https://trello.com/c/WFeGQcf9/51-bug-100applive-incorrect-success-toast-displayed-after-editing-a-post
+
+35. Cursor Does Not Move to the Previous Line When Pressing Backspace in Feed Post Editor — Fixed
+
+https://trello.com/c/UVBqoI5b/64-bug-100applive-cursor-does-not-move-to-the-previous-line-when-pressing-backspace-in-feed-post-editor
+
+36. Login Toast Is Missing — Fixed
+
+https://trello.com/c/tkwCXobn/23-bug-100applive-login-toast-is-missing
+
+37. Post Timestamp Does Not Update After Refresh — Fixed
+
+https://trello.com/c/Tnfcc9oy/139-bug-100applive-even-after-refreshing-the-post-time-is-not-updating
+
+38. Pinned Posts Not Displayed in a Dedicated Section on Mobile App — Fixed
+
+https://trello.com/c/gUmnpS0X/327-bug-100applive-pinned-posts-are-not-displayed-in-a-dedicated-section-on-mobile-app
+
+39. Mobile Header Displays Page Title Instead of Current Channel Name — fixed
+
+https://trello.com/c/JvC61E2l/44-bug-100applive-mobile-header-displays-page-title-instead-of-current-channel-name
+
+40. Chat Notification Creates Multiple Back-Navigation Steps — fixed 
+
+https://trello.com/c/SRpzQOsi/715-chat-notification-creates-multiple-back-navigation-steps
+
+today
+
+41/[Bug-100][App][Live] – “Turn Off Commenting” Option Is Missing After Post Creation
+https://trello.com/c/nbB4v28w/754-bug-100applive-turn-off-commenting-option-is-missing-after-post-creation (Report->fixed)
+
+42/[Bug-100][App][Live] – Pinned Posts Do Not Display Code-Based and Document/PDF Content
+https://trello.com/c/d18nWb5t/755-bug-100applive-pinned-posts-do-not-display-code-based-and-document-pdf-content (fixed)
+
+43/[Bug-100][App][Live] – Video Upload Takes Longer on Mobile App Compared to Web 
+https://trello.com/c/ISlIOa3c/756-bug-100applive-video-upload-takes-longer-on-mobile-app-compared-to-web  (Report) 
+
+44/[Bug-100][App][Live] – Cross-Platform Video Sync Issues: App-Uploaded Videos Missing from Video Tab and Storage Tracking, and Edited Videos Disappearing from Video tab
+https://trello.com/c/8XjSzI3E/758-bug-100applive-cross-platform-video-sync-issues-app-uploaded-videos-missing-from-video-tab-and-storage-tracking-and-edited-video (fiixed)
+
+45/[Bug-100][App][Live] – “Unhide Post” Option Missing from Profile Settings 
+https://trello.com/c/sDUkBpfz/759-bug-100applive-unhide-post-option-missing-from-profile-settings (Done)
+
+46/[Bug-100][App][Live] – Uploaded Audio File Name Is Not Displayed When Post Title Is Empty
+https://trello.com/c/14bPScCI/760-bug-100applive-uploaded-audio-file-name-is-not-displayed-when-post-title-is-empty  (fixed)
+
+47/[Bug-100][App][Live]-Duplicate Audio Playback When the Same Audio Is Posted Twice in a Community channel
+https://trello.com/c/21xmXYWH/727-bug-100applive-duplicate-audio-playback-when-the-same-audio-is-posted-twice-in-a-community-channel (not fixed->fixed)
+
+48/[Bug-100] [App] [Live] Success Toast Appears Behind the Profile Drawer
+https://trello.com/c/39AYAqSu/709-bug-100-app-live-success-toast-appears-behind-the-profile-drawer(Not fixed->fixed)
+
+49/[Issue-Client][App][Live]-Sign-in code email shows "EZYCommunity" instead of "CommunityApp" (Gray Label) (Done)
+https://trello.com/c/ZZD8krrQ/651-issue-clientapplive-sign-in-code-email-shows-ezycommunity-instead-of-communityapp-gray-label
+
+50/[Bug-100][App][Live] Validation, Error Handling, and Empty Field Bugs in Edit Profile 
+https://trello.com/c/8uB0TfFd/325-bug-100applive-validation-error-handling-and-empty-field-bugs-in-edit-profile (fixed)
+
+51/[Bug-100][App][Live]  Video/Audio post validation can be bypassed by typing and clearing text in the title field.(fixed)
+https://trello.com/c/wMKgsTaZ/300-bug-100applive-video-audio-post-validation-can-be-bypassed-by-typing-and-clearing-text-in-the-title-field 
+
+52/[Bug-100][App][Live] App freezes on infinite loading state when opening downloadable lessons (fixed)
+https://trello.com/c/LBEok0Dl/306-bug-100applive-app-freezes-on-infinite-loading-state-when-opening-downloadable-lessons 
+
+53/[Bug-100][App][Live] Downloaded course items (PDFs and audio) fail to render or play correctly from the downloads list (Fixed)
+https://trello.com/c/v7dQSV67/309-bug-100applive-downloaded-course-items-pdfs-and-audio-fail-to-render-or-play-correctly-from-the-downloads-list
+
+54/[Bug-100][App][Live] Embedded YouTube Video(Course) Becomes Black/Paused After App Backgrounding and "Open in YouTube" Button Is Non-functional (fixed)
+https://trello.com/c/fCCbfWzK/347-bug-100applive-embedded-youtube-videocourse-becomes-black-paused-after-app-backgrounding-and-open-in-youtube-button-is-non-funct
+
+55/[Bug-100][App][Live] – Notification Settings Are Not Independent and Sync Incorrectly Between Web and Mobile App
+https://trello.com/c/fAkdONK9/181-bug-100applive-notification-settings-are-not-independent-and-sync-incorrectly-between-web-and-mobile-app (Not Fixed->fixed)
+today
+56/[Bug-100][App][Live] – Profile Fields Are Not Displayed Properly in the Mobile App
+https://trello.com/c/PyFrCyCZ/772-bug-100applive-profile-fields-are-not-displayed-properly-in-the-mobile-app (reported->fixed)
+
+57/Bug Title: [Bug-100][App][Live] – Error Occurs When Editing a Video Post in the Mobile App
+https://trello.com/c/h5mcrrKc/775-bug-title-bug-100applive-error-occurs-when-editing-a-video-post-in-the-mobile-app (report->fixed)
+
+58/[Bug-100][App][Live] – Library Category Is Missing in the Mobile App(repor->fixed)
+https://trello.com/c/iRV4odDd/781-bug-100applive-library-category-is-missing-in-the-mobile-app 
+
+59/Bug Title: [Bug-100][App][Live] – Error Occurs When Editing a Video Post in the Mobile App
+https://trello.com/c/h5mcrrKc/775-bug-title-bug-100applive-error-occurs-when-editing-a-video-post-in-the-mobile-app (Fixed)
+
+60/[Bug-100][App][Live] – Video Is Removed When Editing a Video Channel Post (fixed)
+https://trello.com/c/3JPKrccv/142-bug-100applive-video-is-removed-when-editing-a-video-channel-post 
+
+61/[Bug-100][App][Live] – Profile Custom Fields Are Missing from Member Directory Search Options 
+https://trello.com/c/lSZbDfj0/791-bug-100applive-profile-custom-fields-are-missing-from-member-directory-search-options (reported->fixed)
+
+62/[Bug-100][App][Live] – Custom Field Dropdown Cannot Be Cleared or Exited in Mobile App
+https://trello.com/c/AJVNGtsu/792-bug-100applive-custom-field-dropdown-cannot-be-cleared-or-exited-in-mobile-app (Reported->fixed)
+
+63/[Bug-100][App][Live] – “Require a Completed Profile” Redirect Does Not Work in Mobile App
+https://trello.com/c/99ZPPRS6/793-bug-100applive-require-a-completed-profile-redirect-does-not-work-in-mobile-app (reported->fixed)
+
+I checked the client-reported issue to verify whether admin-sent audio messages can be played in the EzyCommunity mobile app. After checking, I reported the issue for further investigation.
+64/[Bug-100][iOS][Talk/DM] – Voice Messages Sent from Web Fail to Play in iOS App (reported)
+https://trello.com/c/ykq1K266/812-bug-100iostalk-dm-voice-messages-fail-to-play-in-ios-app
+
+65/[Bug-100][App][Live] – Missing Multi-Language Support(reported)
+https://trello.com/c/h9OzUF9e/811-bug-100applive-missing-multi-language-support
+
+66/[Bug-100][App][Live] – Unread Message Badge Count Displays Incorrectly in Chat Room and Direct Message (reported)
+https://trello.com/c/yj9osdIe/813-bug-100applive-unread-message-badge-count-displays-incorrectly-in-chat-room-and-direct-message 
+
+67/[Bug-100][App][Live] – Unread Message Badge Count Does Not Update After Viewing Messages(reported)
+https://trello.com/c/yt77I5xz/814-bug-100applive-unread-message-badge-count-does-not-update-after-viewing-messages 
+
+68/Bug Title: [Bug-100][Web][Live] – Audio Files Sent from Mobile App Are Not Displayed Correctly on Web (reported)
+https://trello.com/c/sCxg4pIv/815-bug-title-bug-100weblive-audio-files-sent-from-mobile-app-are-not-displayed-correctly-on-web 
+69/[Bug-100][App][Live] – Retry Option Does Not Work When Uploading More Than 10 Images or Videos (reported)
+https://trello.com/c/r1ogTveN/816-bug-100applive-retry-option-does-not-work-when-uploading-more-than-10-images-or-videos 
+70/[Bug-100][App][Live] – App Becomes Unresponsive When Sending Text Exceeding 5,000 Characters (reported)
+https://trello.com/c/0tFgXacV/817-bug-100applive-app-becomes-unresponsive-when-sending-text-exceeding-5000-characters
+
+71/[Bug-100][App][Live] – Video Processing Takes Longer for Videos Sent from Web (reported)
+https://trello.com/c/vRn9jw2r/818-bug-100applive-video-processing-takes-longer-for-videos-sent-from-web 
+72/[Bug-100][App][Live] – Chat Mention Badges Reset to Zero After Refresh Without Viewing Mentions (reported)
+https://trello.com/c/5DAyfDRP/819-bug-100applive-chat-mention-badges-reset-to-zero-after-refresh-without-viewing-mentions 
+
+73/ [Bug-100][App][Live] – No Dedicated Section to View Pinned Messages (reported)
+https://trello.com/c/WnSRhkh4/820-bug-100applive-no-dedicated-section-to-view-pinned-messages 
+
+74/[Bug-100][App][Live] – No Dedicated Section to View Pinned Messages (reported)
+https://trello.com/c/WnSRhkh4/820-bug-100applive-no-dedicated-section-to-view-pinned-messages 
+
+75/ [Bug-100][Web][Live] –Chat Room Message Pinning Requires Permission, Unlike Direct Messages (reported)
+https://trello.com/c/HnsKFhYB/822-bug-100weblive-chat-room-message-pinning-requires-permission-unlike-direct-messages
+
+76/ [Bug-100][App][Live] –Chat Room Message Pinning Requires Permission, Unlike Direct Messages (reported)
+https://trello.com/c/Ht96ZEwj/823-bug-100applive-chat-room-message-pinning-requires-permission-unlike-direct-messages
+
+77/[Bug-100][App][Live] – Thread Notification Badge Missing (reported)
+https://trello.com/c/NZGIR0CL/824-bug-100applive-thread-notification-badge-missing 
+
+78/[Bug-100][App][Live] – Block User Option Missing in Direct Message Chat on Mobile App(reported) 
+https://trello.com/c/21Dk6tbl/825-bug-100applive-block-user-option-missing-in-direct-message-chat-on-mobile-app 
+
+79/[Bug-100][App][Live] – Leave Room Option Missing for Members in Mobile App (reported)
+https://trello.com/c/aW87sIL5/826-bug-100applive-leave-room-option-missing-for-members-in-mobile-app 
+
+
+
+##Ezycourse App
+1->Sandra's Site and app - Ei Empowerd – Investigate Multiple-Type Lesson Formatting Issues in App – 09/10/2026
+https://trello.com/c/FlIAQEgC/2182-sandras-site-and-app-ei-empowerd-investigate-multiple-type-lesson-formatting-issues-in-app-09-10-2026 (Done)
+2/[Bug][EzyCourse App] – Lesson Loads Multiple Times When Tapped Repeatedly
+https://trello.com/c/o1mW4FU3/2187-bugezycourse-app-lesson-loads-multiple-times-when-tapped-repeatedly (report)
+
