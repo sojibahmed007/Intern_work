@@ -1,3 +1,7 @@
+# ==========================================
+# EzyCommunity Work
+# ==========================================
+
 ## Issue Verified And Report in Web(Live):
 1->Community Email Fixes(testing Statging Done->live testing )
 https://trello.com/c/zWWu6y6q/669-community-email-fixes-fix-community-email-with-app
@@ -323,13 +327,66 @@ https://trello.com/c/NZGIR0CL/824-bug-100applive-thread-notification-badge-missi
 https://trello.com/c/21Dk6tbl/825-bug-100applive-block-user-option-missing-in-direct-message-chat-on-mobile-app 
 
 79/[Bug-100][App][Live] – Leave Room Option Missing for Members in Mobile App (reported)
-https://trello.com/c/aW87sIL5/826-bug-100applive-leave-room-option-missing-for-members-in-mobile-app 
+https://trello.com/c/aW87sIL5/826-bug-100applive-leave-room-option-missing-for-members-in-mobile-app
 
 
+# ==========================================
+# EzyCourse Work
+# ==========================================
 
-##Ezycourse App
+## Ezycourse App
 1->Sandra's Site and app - Ei Empowerd – Investigate Multiple-Type Lesson Formatting Issues in App – 09/10/2026
 https://trello.com/c/FlIAQEgC/2182-sandras-site-and-app-ei-empowerd-investigate-multiple-type-lesson-formatting-issues-in-app-09-10-2026 (Done)
+
 2/[Bug][EzyCourse App] – Lesson Loads Multiple Times When Tapped Repeatedly
 https://trello.com/c/o1mW4FU3/2187-bugezycourse-app-lesson-loads-multiple-times-when-tapped-repeatedly (report)
+
+
+## EzyCourse Tasks / Issues:
+1/ Rich Text Editor Sticky Functionality Not Working in 1:1 Coaching Description- gabby@quantumleap.biz
+https://trello.com/c/V4cFooJN/5537-rich-text-editor-sticky-functionality-not-working-in-11-coaching-description-gabbyquantumleapbiz?filter=sojib
+
+2/ Improve Active State for Menu Links
+https://trello.com/c/6tklf5aV/5429-improve-active-state-for-menu-links
+
+3/ Assignment Submission & Mark Validation Issues
+https://trello.com/c/PERNq2d3/5540-assignment-submission-mark-validation-issues
+
+4/ Unable to delete enrollment (crisp)
+https://trello.com/c/7295bnbc/5526-unable-to-delete-enrollment-crisp
+
+5/ Deeplink test for app
+https://trello.com/c/tseMyKHi/5387-deeplink-test-for-app
+
+6/ Deeplink test for QA
+https://trello.com/c/qXYq8dJE/2112-deeplink-test-for-qa
+
+7/ Bundle Course Shows 404 Instead of Expiration Message After Access Expires (Web)
+https://trello.com/c/POuYmGZL/5553-bundle-course-shows-404-instead-of-expiration-message-after-access-expires
+
+8/ Students' Editable Assignments & Deletion - academienuances: Site & Apps
+https://trello.com/c/csoHROYR/1171-students-editable-assignments-deletion-academienuances-site-apps
+
+9/ Blog Creation Returns 500 Error Although Blog Is Successfully Created (Web)
+https://trello.com/c/32o1c7B1/5471-blog-creation-returns-500-error-although-blog-is-successfully-createdweb
+
+10/ Camera Cannot Switch While Visual Effect Is Enabled on Mobile Browser
+https://trello.com/c/MPz6wqku/87-camera-cannot-switch-while-visual-effect-is-enabled-on-mobile-browser
+
+11/ Unable to delete empty video library with 0 enrolled students 422 error (Web)
+https://trello.com/c/iKfccc63/5472-unable-to-delete-empty-video-library-with-0-enrolled-students-422-errorweb
+
+
+## App Bug Case Reports:
+1. app_test_course:
+https://docs.google.com/spreadsheets/d/15wZqjcm9YdjP5FjGEZjyB89-khHjcfKN4EVDv94ZeN0/edit?usp=sharing
+
+2. app_test_course:
+https://docs.google.com/spreadsheets/d/15wZqjcm9YdjP5FjGEZjyB89-khHjcfKN4EVDv94ZeN0/edit?usp=sharing
+
+3. One to One Coaching:
+https://docs.google.com/spreadsheets/d/1FA36FxAxilAngk_4UXpH2YkjmpSYLhHVrm4DZ0ZfbxU/edit?gid=0#gid=0
+
+4. Brand app deep link:
+https://docs.google.com/spreadsheets/d/1LzTZzfx6b9DZhUvvAMcj--KIZmmHho4JpPL1g2pBhcs/edit?usp=sharing
 
