@@ -4,10 +4,22 @@ This repository tracks QA testing, bug reports, issue verification, and test cas
 
 ---
 
+## Work Statistics
+
+| Project | Total Cards Worked On | Details |
+| :--- | :---: | :--- |
+| **EzyCommunity** | **103 Cards** | 24 Web (Live) + 79 App (Live) |
+| **EzyCourse** | **13 Cards** | 2 App + 11 Tasks/Web (plus 4 App Bug Case Reports) |
+| **Total** | **116 Cards** | Total tasks/cards worked across both platforms |
+
+---
+
 ## Table of Contents
+- [Work Statistics](#work-statistics)
 - [EzyCommunity Work](#ezycommunity-work)
   - [Issue Verified and Reported in Web (Live)](#issue-verified-and-reported-in-web-live)
   - [Issue Verified and Reported in App (Live)](#issue-verified-and-reported-in-app-live)
+  - [EzyCommunity Test Cases](#ezycommunity-test-cases)
 - [EzyCourse Work](#ezycourse-work)
   - [EzyCourse App Testing](#ezycourse-app-testing)
   - [EzyCourse Tasks / Issues](#ezycourse-tasks--issues)
@@ -126,6 +138,13 @@ This repository tracks QA testing, bug reports, issue verification, and test cas
 - **77.** [Thread Notification Badge Missing](https://trello.com/c/NZGIR0CL/824-bug-100applive-thread-notification-badge-missing) (Reported)
 - **78.** [Block User Option Missing in Direct Message Chat on Mobile App](https://trello.com/c/21Dk6tbl/825-bug-100applive-block-user-option-missing-in-direct-message-chat-on-mobile-app) (Reported)
 - **79.** [Leave Room Option Missing for Members in Mobile App](https://trello.com/c/aW87sIL5/826-bug-100applive-leave-room-option-missing-for-members-in-mobile-app) (Reported)
+
+---
+
+### EzyCommunity Test Cases
+- **1.** [Notification Test Cases](https://docs.google.com/spreadsheets/d/1Rci3DnuOd8jSESwnFawwI8JiHacpGqny/edit?usp=sharing&ouid=102246886626136998666&rtpof=true&sd=true)
+- **2.** [Mobile App User Status Test Cases (PR3904)](https://docs.google.com/spreadsheets/d/14ew6SGDz9eY00EsD6x3rwui8m732Ft4o/edit?usp=sharing&ouid=102246886626136998666&rtpof=true&sd=true)
+- **3.** [Storage Test Case](https://docs.google.com/spreadsheets/d/1EMSPqSUxRBukRpsitw2UomtWZDNSr8JsvXEIIcdHink/edit?usp=sharing)
 
 ---
 

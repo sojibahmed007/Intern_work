@@ -330,6 +330,17 @@ https://trello.com/c/21Dk6tbl/825-bug-100applive-block-user-option-missing-in-di
 https://trello.com/c/aW87sIL5/826-bug-100applive-leave-room-option-missing-for-members-in-mobile-app
 
 
+## EzyCommunity Test Cases:
+1. Notification Test Cases:
+https://docs.google.com/spreadsheets/d/1Rci3DnuOd8jSESwnFawwI8JiHacpGqny/edit?usp=sharing&ouid=102246886626136998666&rtpof=true&sd=true
+
+2. Mobile App User Status Test Cases (PR3904):
+https://docs.google.com/spreadsheets/d/14ew6SGDz9eY00EsD6x3rwui8m732Ft4o/edit?usp=sharing&ouid=102246886626136998666&rtpof=true&sd=true
+
+3. Storage Test Case:
+https://docs.google.com/spreadsheets/d/1EMSPqSUxRBukRpsitw2UomtWZDNSr8JsvXEIIcdHink/edit?usp=sharing
+
+
 # ==========================================
 # EzyCourse Work
 # ==========================================
